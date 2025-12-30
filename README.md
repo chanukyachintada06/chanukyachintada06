@@ -11,7 +11,12 @@ I am eager to apply my technical skills in cybersecurity, cloud security, and sy
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@hanukyachintada) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@hanukyachintada)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chanukyachintada.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanukya006/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chanukyachintada06)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Chanukyacom)
+
 
 # 💻 Tech Stack:
 ### 🔐 Cybersecurity & Security Tools
@@ -58,4 +63,3 @@ I am eager to apply my technical skills in cybersecurity, cloud security, and sy
 ---
 [![](https://visitcount.itsvg.in/api?id=chanukyachintada06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
