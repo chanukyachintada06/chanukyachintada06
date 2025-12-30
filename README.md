@@ -1,16 +1,23 @@
 # 💫 About Me:
-Designing and implementing security-focused applications, including phishing detection systems, browser security extensions, and hands-on vulnerability assessment labs using Kali Linux.<br>Cybersecurity projects, open-source security tools, digital forensics research, and Linux/system security automation.<br>Advanced threat detection techniques, malware analysis, and real-world SOC workflows.<br>Memory & disk forensics, web application security, and vulnerability assessment methodologies.<br>Cybersecurity fundamentals, Linux administration, digital forensics, SQL injection labs, browser security extensions, and secure system design.<br>I enjoy breaking systems ethically to understand how to secure them better.
+I am an energetic and analytical Computer Science and Engineering student specializing in Cybersecurity, with hands-on experience in ethical hacking, digital forensics, Linux system administration, and secure application development. I work extensively with Python, C, C++, Java, HTML, CSS, and JavaScript, and have a strong foundation in security concepts, vulnerability assessment, and defensive security practices.<br>
+
+I have completed NPTEL Cloud Computing certification and Red Hat Linux System Administration training (RH124 & RH134), where I designed and implemented multiple shell scripting and automation projects, including disk space alert systems, user session logging, password expiry notifications, and zombie process detection.<br>
+
+My practical experience includes Linux administration, VMware-based virtual labs, Kali Linux penetration testing, and web application security testing using DVWA, SQL Injection labs, and OWASP-aligned methodologies. These projects strengthened my problem-solving, scripting, and real-world security analysis skills.<br>
+
+Currently, I am preparing for CompTIA Security+ while expanding my expertise in cloud security, SOC workflows, incident response, risk management, and network security fundamentals. I have also contributed as a co-author to upcoming Springer publications in the domain of cybersecurity and computational intelligence.<br>
+
+I am eager to apply my technical skills in cybersecurity, cloud security, and system administration roles, where I can contribute to securing infrastructure, analyzing threats, and building resilient systems.<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@hanukyachintada) 
 
 # 💻 Tech Stack:
-## 💻 Tech Stack
-
 ### 🔐 Cybersecurity & Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL%20Injection-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=security&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=rapid7&logoColor=white)
@@ -23,6 +30,7 @@ Designing and implementing security-focused applications, including phishing det
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-2F4F4F?style=for-the-badge&logo=protonvpn&logoColor=white)
 ![SOC Analysis](https://img.shields.io/badge/SOC%20Analysis-0A192F?style=for-the-badge&logo=security&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
 
 ---
 
